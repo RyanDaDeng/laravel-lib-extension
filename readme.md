@@ -1,7 +1,7 @@
 
 # BaseSubscriber
 ````PHP
-class AuditTrailEventSubscriber extends BaseSubscriber
+class ExampleSubscriber extends BaseSubscriber
 {
     /**
      * This can either be a one-to-one or one-to-many mappings
